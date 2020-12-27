@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... --> 
-- 🌱 I’m currently learning Next.js, GraphQL, React.js
+- 🌱 I’m currently learning Rust, WASM.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
