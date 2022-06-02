@@ -2,7 +2,6 @@
 
 
 - 🌱 I’m currently learning WASM and systems programming.
-- 😄 Pronouns: he/him/his
 - 💬 Ask me about: Anything.
 - ⚡ Facts about me: I can speedsolve a rubik's cube in 15 sec and less
 
